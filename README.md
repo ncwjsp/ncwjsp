@@ -3,6 +3,7 @@
 ## Stacks
 
 ### Learning (Beginner)
+
 <ul>
   <li>HTML</li>
   <li>CSS</li>
@@ -10,6 +11,7 @@
 </ul>
 
 ### Experienced
+
 <ul>
   <li>Python</li>
   <li>Java</li>
