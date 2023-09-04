@@ -1,14 +1,19 @@
 # Hi there 👋
 
 ## Stacks
+
+### Learning (Beginner)
 <ul>
-  <li>Learning<li>HTML</li>
+  <li>HTML</li>
   <li>CSS</li>
   <li>Javascript</li>
-  <li>Python</li></li>
-  
+</ul>
+### Experienced
+<ul>
+  <li>Python</li>
   <li>Java</li>
 </ul>
+
 
 <!--
 **ncwjsp/ncwjsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
