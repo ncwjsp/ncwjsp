@@ -2,10 +2,11 @@
 
 ## Stacks
 <ul>
-  <li>HTML</li>
+  <li>Learning<li>HTML</li>
   <li>CSS</li>
   <li>Javascript</li>
-  <li>Python</li>
+  <li>Python</li></li>
+  
   <li>Java</li>
 </ul>
 
