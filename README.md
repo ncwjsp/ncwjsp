@@ -2,7 +2,7 @@
 
 ##                                                       Stacks
 
-### Learning (Beginner)
+### Learning
 
 <ul>
   <li>HTML</li>
