@@ -14,7 +14,7 @@
 
 <ul>
   <li>Python</li>
-  <li>Java (Object Oriented Concepts)</li>
+  <li>Java (Object Oriented Concept)</li>
 </ul>
 
 
