@@ -9,7 +9,7 @@ I am a computer science student interested in web development 😎💻
 - 🧑‍🎓 &nbsp; I’m a second year student.
 - 📚 &nbsp; I’m currently learning web development and ML.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
-- 📫 &nbsp; Reach me out: pavangandhi100@gmail.com.
+- 📫 &nbsp; Reach me out: nc.wjsp@gmail.com.
 
 ### My Absolute Favorites:
 
