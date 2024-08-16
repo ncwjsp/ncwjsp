@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and Next.js**
 
-- 📚 and I've got **C# .NET** on my learning list
+- 📚  **C# .NET** is on my learning list too!
 
 - 🧑‍💻 I also have a significant interest in **Cybersecurity**
 
