@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Plai</h1>
-<h3 align="center">A programmer from Thailand</h3>
+<h3 align="center">A computer science student from Thailand</h3>
 
 - 💪🏻 Grinding to be a **Software Developer**
 
