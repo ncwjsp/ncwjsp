@@ -3,11 +3,7 @@
 
 - 💪🏻 Grinding to be a **Software Developer**
 
-- 🌱 I’m currently learning **React and Next.js**
-
-- 📚  **C# .NET** is on my learning list too!
-
-- 🧑‍💻 I also have a significant interest in **Cybersecurity**
+- 🌱 I’m currently learning **Back-end Development, and Android Application Development**
 
 - 📫 How to reach me **nc.wjsp@gmail.com**
 
